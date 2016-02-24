@@ -4,3 +4,5 @@ These notes are intended to be a high level overview / quick refresher of the co
 
 * [Course Overview](https://www.youtube.com/watch?v=1cZtdKNB9jo)
 * Lesson 01: [HTML, CSS and Boxes](Lecture_Notes/Lesson_01.md)
+* Lesson 02: [CSS Frameworks, Responsive Layouts](Lecture_Notes/Lesson_02.md)
+* Lesson 03: [Bootstrap and Other Frameworks](Lecture_Notes/Lesson_03.md)
