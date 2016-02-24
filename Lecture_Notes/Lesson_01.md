@@ -59,6 +59,8 @@
 
 * [Conclusion](https://www.youtube.com/watch?v=ZAg8R-_VzNI)
 
+* [Lesson 1 Practice](https://www.youtube.com/watch?v=1iWRCWLmNb8)
+
 <br>
 
 [Back to course notes](../Course_Notes.md)
