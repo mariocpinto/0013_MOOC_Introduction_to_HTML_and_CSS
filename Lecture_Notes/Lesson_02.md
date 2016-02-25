@@ -17,18 +17,18 @@
 
 * Framework Version 01: [1](https://www.youtube.com/watch?v=oEz3s8JKjYI), [2](https://www.youtube.com/watch?v=lkhwToSC5Mo).
 
-* [Negative Space](https://www.youtube.com/watch?v=hJLpIkxh_60).
+* [Negative Space](https://www.youtube.com/watch?v=hJLpIkxh_60)
   * Padding and margins.
 
-* [Overflows](https://www.youtube.com/watch?v=BKW9Ie5CDgs).
+* [Overflows](https://www.youtube.com/watch?v=BKW9Ie5CDgs)
   * Use overflows to appropriately handle large amounts of text in a small box.
   
 * Media Specific CSS: [1](https://www.youtube.com/watch?v=1J7fJUbI14U), [2](https://www.youtube.com/watch?v=1CtCwq5U4mI).
   * Media queries can be used to change media properties depending on device, screen size and color.
 
-* [CSS Resetting](https://www.youtube.com/watch?v=VNr1zneQerw).
+* [CSS Resetting](https://www.youtube.com/watch?v=VNr1zneQerw)
 
-* [Your Problem has been Solved Before](https://www.youtube.com/watch?v=SAvFdPxvQTc).
+* [Your Problem has been Solved Before](https://www.youtube.com/watch?v=SAvFdPxvQTc)
 
 * Applying the Framework: [1](https://www.youtube.com/watch?v=RcTd6C8Uu_w), [2](https://www.youtube.com/watch?v=159EzIheI-A).
 
@@ -36,5 +36,16 @@
 
 * Tuning the Page: [1](https://www.youtube.com/watch?v=IFqcr0Z9r3Y), [2](https://www.youtube.com/watch?v=P9VRKLatg7c).
   * Can use [placehold.it](http://placehold.it/) to get placeholder images.
+
+* Continuous Improvement: [1](https://www.youtube.com/watch?v=btRbnnbC4ag), [2](https://www.youtube.com/watch?v=C3dVD7q9oMM).
+ * Good resource for fonts is [Google Fonts](https://www.google.com/fonts).
+
+* [Code, Test, Refine, Repeat](https://www.youtube.com/watch?v=eNuvK8Wt-UE)
+
+* [Conclusion](https://www.youtube.com/watch?v=psIHuAlXw1M)
+
+<br>
+
+[Back to course notes](../Course_Notes.md)
 
 
