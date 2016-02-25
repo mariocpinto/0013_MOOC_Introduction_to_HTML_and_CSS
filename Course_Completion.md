@@ -1,5 +1,5 @@
 
-## Course Completion Records
+## Course Completion Record
 
 This is my course completion record for the MOOC [Introduction to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304):
 
